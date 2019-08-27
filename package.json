@@ -2,7 +2,7 @@
     "name": "todolist",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://Emartiinez.github.io/React-to-do-list",
+    "homepage": "https://emartiinez.github.io/React-to-do-list",
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^1.2.21",
         "@fortawesome/free-solid-svg-icons": "^5.10.1",
@@ -35,8 +35,6 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
-    },
-    "devDependencies": {
-        "gh-pages": "^2.1.1"
     }
+
 }
